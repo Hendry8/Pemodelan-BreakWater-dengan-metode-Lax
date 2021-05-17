@@ -18,4 +18,4 @@ Yang diselesaikan dengan metode beda hingga dari metode FTCS yaitu metode LAX
 
 Berikut adalah poster yang saya buat : 
 
-![](foto/analsis-pengaruh-break-water-terhadap-perilaku-ombak.jpg)
+![](foto/poster1.png)
